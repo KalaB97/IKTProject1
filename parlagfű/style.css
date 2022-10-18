@@ -27,3 +27,12 @@ a:active , a:hover , a:visited , a:link {
 .kozep{
     text-align: center;
 }
+span{
+    font-weight: bold;
+}
+#kepigazit {
+    margin-right: 5px;
+    margin-left: 5px;
+    float: right;
+    border: 1px solid
+}
