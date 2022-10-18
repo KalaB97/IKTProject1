@@ -21,6 +21,9 @@ a:active , a:hover , a:visited , a:link {
 }
 #sorforma {
     background-color: black;
-    padding: 40px;
+    height: 40px;
     color: white;
+}
+.kozep{
+    text-align: center;
 }
